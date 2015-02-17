@@ -1,4 +1,4 @@
-groovecoder's vim
+MrMakeIt's vim
 ============
 
 Requirements
@@ -11,5 +11,5 @@ Quick Installation
 Do this::
 
     cd
-    git clone git://github.com/groovecoder/vim.git .vim
+    git clone git://github.com/mrmakeit/vim.git .vim
     ln -s .vim/vimrc .vimrc
