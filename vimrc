@@ -231,3 +231,5 @@ noremap <C-g><C-p> :GitGutterPrevHunk<CR>
 noremap <C-d><C-l> :diffget 2<CR>:diffupdate<CR>
 noremap <C-d><C-r> :diffget 5<CR>:diffupdate<CR>
 noremap <C-d><C-p> :dp<CR>:diffupdate<CR>
+scriptencoding utf-8
+set encoding=utf-8
