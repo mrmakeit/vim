@@ -4,3 +4,6 @@
 [submodule "bundle/vim-istanbul"]
 	path = bundle/vim-istanbul
 	url = git://github.com/juanpabloaj/vim-istanbul.git
+[submodule "bundle/editorconfig-vim"]
+	path = bundle/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
